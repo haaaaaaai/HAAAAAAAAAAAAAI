@@ -43,9 +43,13 @@
 #     print(a-b)
 
 
-# a=1
-# b=7
-# if a>2 and a<11 or (b>6 or b==6 and b<14):
-#     print ("verno")
-# else:
-#     print ("neverno")
+a=1
+b=7
+if a>2 and a<11 or (b>6 or b==6 and b<14):
+    print ("verno")
+else:
+    print ("neverno")
+
+
+
+wasdwsadawsdwasdwasdawasdwdasddwasdawsadadwasdawdas
